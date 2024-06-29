@@ -1,5 +1,5 @@
 # Daily-Diary
-The Diary Manager is a basic console application designed to help users maintain a daily diary. Each diary entry consists of a date and corresponding content, which can be managed directly from the command line.
+The Diary Manager is a basic console application designed to help users maintain a daily diary. Each diary entry consists of a date and corresponding content.
 
 Features
 - Add Entry: Add new entries with a date and content.
