@@ -118,7 +118,5 @@ namespace DiaryManager
             return entries.Count;
         }
 
-
-
     }
 }
